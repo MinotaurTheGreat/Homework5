@@ -1,0 +1,3 @@
+Problema la rulare server: https://stackoverflow.com/questions/66721556/cannot-import-name-views-from-website-views-error
+Problema la creearea unei baze de date: https://stackoverflow.com/questions/73968584/flask-sqlalchemy-db-create-all-got-an-unexpected-keyword-argument-app
+Problema la 'sha256' pentru password hashing. Folosim scrypt, ca e mai nou. sha256 outdated!
